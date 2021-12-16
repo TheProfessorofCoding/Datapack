@@ -1,8 +1,7 @@
-## Welcome to GitHub Pages
+## Welcome to LukCoding's Datapack site!
 
-You can use the [editor on GitHub](https://github.com/TheProfessorofCoding/Datapack/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+You can install the pack by downloading the zip file from the button in the menu and then extracting the .zip.
+When you extract this, you get a folder. Inside this folder, there's another folder. Now open a new file explorer window and into the top, enter %appdata%/.minecraft/saves/WORLDNAME/datapacks. Now move the other folder into this folder and now restart your game and now my message will appear in the chat. Now you can start using my datapack!
 
 ### Markdown
 
@@ -30,7 +29,7 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
 
 ### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/TheProfessorofCoding/Datapack/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/LukPokemon/Datapack/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
